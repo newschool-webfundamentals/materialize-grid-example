@@ -1,0 +1,15 @@
+h1 {
+	color: red;
+	font-family: 'DM Serif Text', serif;
+	font-size: 100px;
+}
+
+h3 {
+	font-size: 50px;
+	font-family: 'DM Serif Text', serif;
+}
+
+p {
+	font-size: 18px;
+	line-height: 1.6;
+}
